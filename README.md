@@ -1,5 +1,5 @@
-### Personal Website
-# Visit www.adityachinchure.me
+# Personal Website
+## Visit www.adityachinchure.me
 
 This repository hosts my personal website.
 Developed using HTML and CSS.
