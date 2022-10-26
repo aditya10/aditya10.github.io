@@ -1,18 +1,16 @@
 ---
-title: Colophon
-permalink: /about/
-layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+title: Aditya Chinchure
+permalink: /
+layout: master
+excerpt: 
 comments: false
+home: true
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I’m a Computer Science student at the University of British Columbia, Vancouver. I work in the Computer Vision Lab with Dr. Leonid Sigal and Dr. Renjie Liao. My interests lie in multimodal vision-language models, time-series models, and commonsense reasoning. 
 
-If you have a question about him or else, just send a letter to him.
+In addition, I am a photographer in the city. I enjoy doing landscape and product photography. My work has over 100 million views on Unsplash.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate on photography or computer science projects. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on Instagram or send me an email anytime.
 
-**may u needs ✨**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
