@@ -15,7 +15,10 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## Publications
 
-VLC-BERT 
+**VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge** \
+Sahithya Ravi\*, **Aditya Chinchure**\*, Leonid Sigal, Renjie Liao, Vered Shwartz (\* equal) \
+_Accepted at WACV 2023_ \
+[arXiv](https://arxiv.org/abs/2210.13626) | [Code](https://github.com/aditya10/VLC-BERT)
 
 
 ## Work
