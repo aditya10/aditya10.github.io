@@ -1,7 +1,7 @@
 # Site settings
 title: Aditya Chinchure # site title
 description: >- # site description
-  Computer Vision researcher at University of British Columbia
+  Graduate Student at University of British Columbia
 lang: en-US # default lang
 timezone: America/Vancouver # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,7 +11,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Aditya Chinchure # author name
-  bio: Computer Vision @ UBC | Photography # tell to the world
+  bio: Multimodal Learning @ UBC | Photography # tell to the world
   username: username # general username
   github: aditya10  # github username
   twitter: adityachinchure # twitter username
