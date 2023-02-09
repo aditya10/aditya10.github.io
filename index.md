@@ -82,7 +82,7 @@ Visual Question Answering with commonsense reasoning is a challenging task that 
 We explore a simple method to incorporate inter-token relationships in a Transformer before performing any training, using graphs with edge features. In VL-BERT-Graph, we generate a fully-connected graph of input tokens where the edges represent similarity between the tokens, obtained using GloVE and CLIP. We then use a message-passing GNN to incorporate these features into the input tokens or the output encoding of the model, and train the Transformer with edge-feature attention masks. \
 [Report](https://lrjconan.github.io/DL-structures/assets/sample_reports_2021/report_05.pdf)
 
-**Learning faster Genetic Algorithms with dynamic mutation power** \ 
+**Learning faster Genetic Algorithms with dynamic mutation power** \
 Policy Gradient (PG) methods and Genetic Algorithms (GA) are used to train Reinforcement Learning agents to perform a particular task in an environment by maximizing the received reward. In the context of this assignment, both techniques aim to approximate a policy function that, given a state, produces a policy to pick the best action to maximize reward. Here, the policy function used is deep neural network model. In this project, I implement a PG method, REINFORCE, and a simple GA method to solve the Lunar Lander (LunarLander-v2) environment in OpenAI Gym. I propose two modifications to the GA method: an improved fitness function with which the GA can solve the task in about 50 generations, and a novel dynamic mutation power technique that helps the model solve the task in 30 generations. \
 [Video](https://youtu.be/BmMubRYbuQM) | [Report](https://drive.google.com/file/d/1bsnn7sfDrHZSZhAxYsIKkBmPxyytd4Xk/view?usp=sharing)
 
