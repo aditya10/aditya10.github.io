@@ -2,6 +2,10 @@
   url: /
   external: false
 
+# - title: Projects
+#   url: /projects/
+#   external: false
+
 - title: Medium
   url: https://medium.com/@adityachinchure
   external: true
@@ -13,10 +17,6 @@
 - title: Instagram
   url: https://www.instagram.com/aditya.chinchure/
   external: true
-
-# - title: feed
-#   url: /feed/
-#   external: false
 
 # Example:
 # - title: github

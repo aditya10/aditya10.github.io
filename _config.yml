@@ -6,7 +6,7 @@ lang: en-US # default lang
 timezone: America/Vancouver # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/aditya10/aditya10.github.io # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
@@ -57,7 +57,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 10
 
 # Build settings
 # theme: klise
