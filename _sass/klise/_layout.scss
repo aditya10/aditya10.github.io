@@ -219,49 +219,113 @@
 .posts-item-note {
   font-size: $base-font-size;
   font-weight: 700;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+  margin-top: 30px;
   color: $black;
 }
 
 // List of posts
 .post-item {
   display: flex;
-  padding-top: 5px;
-  padding-bottom: 6px;
+  padding-top: 20px;
+  padding-bottom: 10px;
   @extend %clearfix;
 
   &:not(:first-child) {
     border-top: 1px solid $light;
   }
 
-  .post-item-date {
-    min-width: 96px;
-    color: $black;
-    font-weight: 700;
-    padding-right: 10px;
+  .post-item-image {
+    width: 128px;
+    height: 128px;
+    margin-right: 10px;
+    flex-shrink: 0;
+    margin-right: 20px;
+    border-radius: 3px;
+    overflow: hidden;
+    position: relative;
+    -webkit-animation: 0.5s ease-in forwards fadein;
+    animation: 0.5s ease-in forwards fadein;
+    opacity: 1;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      object-position: center;
+    }
 
     @include media-query($on-mobile) {
-      font-size: 16px;
+      width: 64px;
+      height: 64px;
     }
   }
 
-  .post-item-title {
-    margin: 0;
-    border: 0;
-    padding: 0;
-    font-size: $base-font-size;
-    font-weight: normal;
-    letter-spacing: 0.1px;
-
-    a {
-      color: $text-base-color;
-
-      &:hover,
-      &focus {
+  .post-item-info {
+    flex-basis: 80%;
+    
+    .post-item-title {
+      margin: 0;
+      border: 0;
+      padding: 0;
+      font-size: $base-font-size;
+      color: $black;
+      font-weight: 700;
+      letter-spacing: 0.1px;
+  
+      a {
         color: $black;
+  
+        &:hover,
+        &focus {
+          color: $black;
+          text-decoration: underline;
+        }
       }
     }
+
+    .post-item-authors {
+      margin-top: 3px;
+      font-size: $base-font-size;
+      color: $text-base-color;
+      line-height: 1.688;
+    }
+  
+    .post-item-date {
+      min-width: 96px;
+      color: $black;
+      font-weight: 700;
+      padding-right: 10px;
+      font-size: $small-font-size;
+  
+      @include media-query($on-mobile) {
+        font-size: 16px;
+      }
+    }
+
+    .post-item-description {
+      margin-top: 5px;
+      font-size: $small-font-size;
+      color: $text-base-color;
+      line-height: 1.688;
+    }
+
+    .post-item-conference {
+      display: inline-block;
+      background-color: $black;
+      padding: 3px 5px;
+      border-radius: 6px;
+      margin-top: 0px;
+      font-size: $small-font-size;
+      color: $smoke;
+      line-height: 1.688;
+    }
+
   }
+
+  
+
+  
 }
 
 // Footer

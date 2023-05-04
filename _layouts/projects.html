@@ -2,12 +2,66 @@
 layout: default
 ---
 
-<h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
+<h3 class="posts-item-note" aria-label="Publications">Publications</h3>
 {%- for post in site.posts limit: site.number_of_posts -%}
+{% if post.category == "publication" %}
 <article class="post-item">
-  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
-  <h4 class="post-item-title">
-    <a href="{{ post.url }}">{{ post.title | escape }}</a>
-  </h4>
+  <span class="post-item-image">
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
+    </a>
+  </span>
+  <span class="post-item-info">
+    <h4 class="post-item-title">
+      <a href="{{ post.url }}">{{ post.title | escape }}</a>
+    </h4>
+    <p class="post-item-authors">{{ post.authors | escape }}</p>
+    <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+    <p class="post-item-description">{{ post.description | escape }}</p>
+    <span class="post-item-conference">{{ post.conference | escape }}</span>
+  </span>
 </article>
+{% endif %}
+{%- endfor -%}
+
+
+<h3 class="posts-item-note" aria-label="Academic Projects">Academic Projects</h3>
+{%- for post in site.posts limit: site.number_of_posts -%}
+{% if post.category == "academic" %}
+<article class="post-item">
+  <span class="post-item-image">
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
+    </a>
+  </span>
+  <span class="post-item-info">
+    <h4 class="post-item-title">
+      <a href="{{ post.url }}">{{ post.title | escape }}</a>
+    </h4>
+    <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+    <p class="post-item-description">{{ post.description | escape }}</p>
+  </span>
+</article>
+{% endif %}
+{%- endfor -%}
+
+
+<h3 class="posts-item-note" aria-label="Other Projects">Other Projects</h3>
+{%- for post in site.posts limit: site.number_of_posts -%}
+{% if post.category == "other" %}
+<article class="post-item">
+  <span class="post-item-image">
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
+    </a>
+  </span>
+  <span class="post-item-info">
+    <h4 class="post-item-title">
+      <a href="{{ post.url }}">{{ post.title | escape }}</a>
+    </h4>
+    <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+    <p class="post-item-description">{{ post.description | escape }}</p>
+  </span>
+</article>
+{% endif %}
 {%- endfor -%}

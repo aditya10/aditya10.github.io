@@ -28,6 +28,15 @@ body[data-theme="dark"] {
 
   // Post
   .page-content {
+
+    .link-button {
+      background-color: $dark-light;
+      padding: 10px;
+      border-radius: 2px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
     a {
       color: $dark-text-link-blue;
 

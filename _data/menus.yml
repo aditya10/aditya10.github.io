@@ -2,9 +2,9 @@
   url: /
   external: false
 
-# - title: Projects
-#   url: /projects/
-#   external: false
+- title: Projects
+  url: /projects/
+  external: false
 
 - title: Medium
   url: https://medium.com/@adityachinchure

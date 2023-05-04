@@ -1,6 +1,70 @@
 [
   
     {
+      "title"    : "DE-TensoRF: Data-efficient and fast NeRFs",
+      "description" : "Developed DE-TensoRF, a model that can render 3D objects with as few as 3 images, and in under 15 min on a single GPU. We achieved the highest grade in our class, and led to collaboration efforts with Dr. Helge Rhodin’s research group.",
+      "tags"     : "",
+      "url"      : "/de-tensorf/",
+      "date"     : "2023-04-28 19:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "VisualCOMET+: Visual Commonsense Generation &amp; its incorporation into a Multimodal Topic Modeling algorithm",
+      "description" : "Developed an extension to VisualCOMET to generate general-purpose commonsense knowledge from images. Showed improvements on coherence and diversity scores of a novel topic modelling algorithm using the generated knowledge",
+      "tags"     : "",
+      "url"      : "/viscomet+/",
+      "date"     : "2022-12-09 18:29:20 -0800"
+    } ,
+  
+    {
+      "title"    : "VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge",
+      "description" : "We present a new Vision-Language-Commonsense transformer model, VLC-BERT, that incorporates contextualized knowledge using Commonsense Transformer (COMET) to solve Visual Question Answering (VQA) tasks that require commonsense reasoning.",
+      "tags"     : "",
+      "url"      : "/vlc-bert/",
+      "date"     : "2022-10-23 19:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "VL-BERT-Graph: Graph-enhanced Transformers for Referring Expressions Comprehension",
+      "description" : "Incorporated Graph Neural Networks in a visual-linguistic Transformer",
+      "tags"     : "",
+      "url"      : "/vl-bert-graph/",
+      "date"     : "2022-04-28 19:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "Universal Machine Learning API",
+      "description" : "A powerful Python API template, built on Flask, for plug-and-play use with machine learning models.",
+      "tags"     : "",
+      "url"      : "/universal-ml-api/",
+      "date"     : "2022-04-28 19:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "Investigating extensions to VLC-BERT and comparing it with GPT-3",
+      "description" : "This project extends VLC-BERT with pointer generator networks and object detection models. Furthermore, we compare the performance of VLC-BERT with GPT-3 on the OK-VQA dataset.",
+      "tags"     : "",
+      "url"      : "/vlc-bert-ext/",
+      "date"     : "2022-04-20 19:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "Learning faster Genetic Algorithms with dynamic mutation power ",
+      "description" : "This project introduces a modification to the GA algorithm to introduce dynamic mutation power, to solve the Lunar Lander evironment on OpenAI Gym in 30 generations.",
+      "tags"     : "",
+      "url"      : "/growing-agents/",
+      "date"     : "2021-12-03 18:29:20 -0800"
+    } ,
+  
+    {
+      "title"    : "A Summary of Recent Text Summarization Techniques",
+      "description" : "In this project paper, we surveyed text summarization models by evaluating existing extractive and abstractive models. We studied the metrics and datasets used to evaluate the latest models and evaluated upcoming abstractive techniques. Finally, we highlighted future pathways for text summarization and suggested areas for improvement",
+      "tags"     : "",
+      "url"      : "/text-summarization/",
+      "date"     : "2020-12-03 18:29:20 -0800"
+    } ,
+  
+    {
       "title"    : "Welcome to Jekyll!",
       "description" : "",
       "tags"     : "",
