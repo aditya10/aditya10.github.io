@@ -4,7 +4,7 @@ title:  "Universal Machine Learning API"
 date:   2022-04-29 09:29:20 +0700
 categories: projects
 category: other
-image: /universal-ml-api/universal-ml-api.png
+image: assets/posts/vl-bert-graph/vl-bert-graph.png
 description: A powerful Python API template, built on Flask, for plug-and-play use with machine learning models.
 ---
 
