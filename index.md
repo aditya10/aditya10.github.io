@@ -79,3 +79,8 @@ The University of British Columbia |
 2016 - 2021 |  GPA: 88% \
 International Student – Faculty of Science Scholarship & Dean’s Honour List
 
+## 📸 Other
+
+* Find my photography work on [Instagram](https://www.instagram.com/aditya.chinchure/) and [Unsplash](https://unsplash.com/@adityachinchure)
+
+* In the news: [Vancouver’s realtors are people too, say trio behind @realtorsofvancouver](https://www.vancouverisawesome.com/local-news/vancouvers-realtors-people-1936819)
