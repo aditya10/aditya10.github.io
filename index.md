@@ -9,7 +9,7 @@ home: true
 
 👋 Hello there! 
 
-I work at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Renjie Liao](https://lrjconan.github.io). My interests lie in multimodal vision-language models, time-series models, and commonsense reasoning. Currently, I am an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/).
+I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). I work on vision-language reasoning and bias & fairness in AI. Previously, I completed my Masters at UBC. I was also an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/).
 
 In addition, I am a photographer in the city. I enjoy doing landscape and product photography. My work has over [100 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest work on [Instagram](https://www.instagram.com/aditya.chinchure/).
 
@@ -20,13 +20,32 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
+* [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024, in Milan!
+* [2024/06] Preprint of our work [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is now available on ArXiv!
+* [2024/06] Attending CVPR 2024 in Seattle
+* [2024/04] ✅ Masters degree. My Thesis is aviailable [here](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441296)
+* [2024/03] ⭐ Recieved the Four Year Fellowship for my PhD
+* [2024/02] I will be continuing as a PhD student at UBC!
 * [2023/04] I will be attending CVPR 2023
-* [2023/01] Reviewer for TPAMI 2023
-* [2023/01] Attending WACV 2023 to present our work, [VLC-BERT](https://arxiv.org/abs/2210.13626)
+* [2023/01] 🎉 Attending WACV 2023 to present our work, [VLC-BERT](https://arxiv.org/abs/2210.13626)
 * [2022/09] I will be joining Borealis AI as a Research Intern
-* [2022/06] Reviewer for TPAMI 2022
+* [2021/08] Starting my Masters at UBC!
 
 ## 📚 Publications
+
+**TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models** \
+**Aditya Chinchure**\*, Pushkar Shukla\*, Gaurav Bhatt, Kiri Salij, Kartik Hosanagar, Leonid Sigal, Matthew Turk (\* equal) \
+_Accepted at ECCV 2024_ \
+[arXiv](https://arxiv.org/abs/2312.01261) | [Website](https://tibet-ai.github.io)
+
+**From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models** \
+Mehar Bhatia, Sahithya Ravi\*, **Aditya Chinchure**\*, Eunjeong Hwang, Vered Shwartz (\* equal) \
+_Preprint_ \
+[arXiv](https://arxiv.org/abs/2407.00263)
+
+**Visual Question Answering with Contextualized Commonsense Knowledge [Masters Thesis]** \
+**Aditya Chinchure** \
+[UBC Library](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441296)
 
 **VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge** \
 Sahithya Ravi\*, **Aditya Chinchure**\*, Leonid Sigal, Renjie Liao, Vered Shwartz (\* equal) \
@@ -42,23 +61,32 @@ Matheus Stolet, Chris Yoon, Kalli Leung, **Aditya Chinchure**, Mathias Lécuyer,
 _Poster at Emerging Technologies: BC's AI Showcase, organized by UBC's Centre for Artificial Intelligence Decision-making and Action (CAIDA)_ \
 [Website](https://leap-project.github.io)
 
+## 📑 Reviewing
+
+I have reviewed several papers for: TPAMI 2022, TPAMI 2023, CVPR 2024, ECCV 2024, TPAMI 2024
+
 ## 👨‍💻 Work
 
+**PhD Student, Computer Vision Lab at UBC Computer Science** \
+_Vancouver | May 2024 - Present_ \
+Working on multimodal vision-language models, commonsense reasoning, bias and fairness.
+
+
 **Research Intern, Borealis AI, RBC** \
-_Vancouver | September 2022 - Present_ \
-Working on event time-series representation learning with transformers.
+_Vancouver | September 2022 - March 2023 \
+Worked on event time-series representation learning with transformers.
 
 **Graduate Research Assistant, Computer Vision Lab at UBC Computer Science** \
-_Vancouver | May 2022 - Present_ \
-Working on Visual Question Answering with external commonsense knowledge.
+_Vancouver | May 2022 - April 2024_ \
+Visual Question Answering with external commonsense knowledge.
 
 **Undergraduate Research Assistant, Computer Vision Lab at UBC** \
 _Vancouver | May 2020 - August 2020_ \
-Working on structured attention for vision-text transformer models to improve image grounding.
+Structured attention for vision-text transformer models to improve image grounding.
 
 **Undergraduate Research Assistant, LEAP Project at UBC Computer Science** \
 _Vancouver | May 2020 - August 2020_ \
-Working on backend projects for LEAP, a differential privacy-focused federated data analytics platform.
+Backend (RedCap Data) projects for LEAP, a differential privacy-focused federated ML platform.
 
 **Machine Learning Engineer (Co-op), Hypercontext (prev. SoapBox)** \
 _Toronto | May 2019 - August 2019_ \
@@ -70,9 +98,14 @@ Worked in a team of eight to scale up our application for cloud deployments.
 
 ## 👨‍🎓 Education
 
+**PhD in Computer Vision and NLP** \
+The University of British Columbia |
+2024 onwards \
+Four Year Fellowship (4YF) Recipient
+
 **MSc. in Computer Science** \
 The University of British Columbia |
-2021 - 2023
+2021 - 2024
 
 **BSc. Honours in Computer Science** \
 The University of British Columbia | 
@@ -81,6 +114,6 @@ International Student – Faculty of Science Scholarship & Dean’s Honour List
 
 ## 📸 Other
 
-* Find my photography work on [Instagram](https://www.instagram.com/aditya.chinchure/) and [Unsplash](https://unsplash.com/@adityachinchure)
+- Find my photography work on [Instagram](https://www.instagram.com/aditya.chinchure/) and [Unsplash](https://unsplash.com/@adityachinchure)
 
-* In the news: [Vancouver’s realtors are people too, say trio behind @realtorsofvancouver](https://www.vancouverisawesome.com/local-news/vancouvers-realtors-people-1936819)
+- In the news: [Vancouver’s realtors are people too, say trio behind @realtorsofvancouver](https://www.vancouverisawesome.com/local-news/vancouvers-realtors-people-1936819)
