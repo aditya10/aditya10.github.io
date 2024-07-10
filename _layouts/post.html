@@ -65,6 +65,7 @@ layout: compress
         </header>
 
         <div class="page-content" itemprop="articleBody">
+          <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
           {% if page.tweet %}
           <p>Comments this article on 

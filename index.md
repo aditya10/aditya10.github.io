@@ -23,7 +23,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 * [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024, in Milan!
 * [2024/06] Preprint of our work [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is now available on ArXiv!
 * [2024/06] Attending CVPR 2024 in Seattle
-* [2024/04] ✅ Masters degree. My Thesis is aviailable [here](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441296)
+* [2024/04] ✅ Masters degree. My thesis is available [here](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441296)
 * [2024/03] ⭐ Recieved the Four Year Fellowship for my PhD
 * [2024/02] I will be continuing as a PhD student at UBC!
 * [2023/04] I will be attending CVPR 2023
