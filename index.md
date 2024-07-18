@@ -9,9 +9,9 @@ home: true
 
 👋 Hello there! 
 
-I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). I work on vision-language reasoning and bias & fairness in AI. Previously, I completed my Masters at UBC. I was also an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/).
+I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). I work on vision-language reasoning, including video reasoning, and bias & fairness in AI. Previously, I completed my Masters at UBC. I was also an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/).
 
-In addition, I am a photographer in the city. I enjoy doing landscape and product photography. My work has over [100 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest work on [Instagram](https://www.instagram.com/aditya.chinchure/).
+In addition, I am a photographer in the city. I enjoy doing landscape, urban, and product photography. My work has over [100 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/aditya.chinchure/).
 
 If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/aditya.chinchure/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
 
@@ -20,7 +20,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
-* [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024, in Milan!
+* [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024!
 * [2024/06] Preprint of our work [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is now available on ArXiv!
 * [2024/06] Attending CVPR 2024 in Seattle
 * [2024/04] ✅ Masters degree. My thesis is available [here](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441296)
