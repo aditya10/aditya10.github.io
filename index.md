@@ -20,6 +20,8 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
+* [2024/10] 📚 Joining Toyota Technological Institute at Chicago (TTIC) as a Visiting Student, working with Dr. Matthew Turk
+* [2024/10] 🎉 [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is accepted at EMNLP 2024!
 * [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024!
 * [2024/06] Preprint of our work [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is now available on ArXiv!
 * [2024/06] Attending CVPR 2024 in Seattle
@@ -33,15 +35,15 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 📚 Publications
 
+**From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models** \
+Mehar Bhatia, Sahithya Ravi\*, **Aditya Chinchure**\*, Eunjeong Hwang, Vered Shwartz (\* equal) \
+_Accepted at EMNLP 2024_ \
+[arXiv](https://arxiv.org/abs/2407.00263)
+
 **TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models** \
 **Aditya Chinchure**\*, Pushkar Shukla\*, Gaurav Bhatt, Kiri Salij, Kartik Hosanagar, Leonid Sigal, Matthew Turk (\* equal) \
 _Accepted at ECCV 2024_ \
 [arXiv](https://arxiv.org/abs/2312.01261) | [Website](https://tibet-ai.github.io)
-
-**From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models** \
-Mehar Bhatia, Sahithya Ravi\*, **Aditya Chinchure**\*, Eunjeong Hwang, Vered Shwartz (\* equal) \
-_Preprint_ \
-[arXiv](https://arxiv.org/abs/2407.00263)
 
 **Visual Question Answering with Contextualized Commonsense Knowledge [Masters Thesis]** \
 **Aditya Chinchure** \
