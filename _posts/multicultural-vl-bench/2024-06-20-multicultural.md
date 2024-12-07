@@ -5,7 +5,7 @@ date:   2024-06-28 12:29:20 -0800
 categories: projects
 category: publication
 authors: "Mehar Bhatia, Sahithya Ravi*, Aditya Chinchure*, Eunjeong Hwang, Vered Shwartz (*equal contribution)"
-conference: "Preprint"
+conference: "EMNLP 2024"
 image: assets/posts/multicultural-vl-bench/multicultural.png
 description: We introduce the GlobalRG benchmark, comprising two challenging tasks, retrieval across universals and cultural visual grounding, to test VL models' cultural inclusivity.
 ---

@@ -9,9 +9,10 @@ home: true
 
 👋 Hello there! 
 
-I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). I work on vision-language reasoning, including video reasoning, and bias & fairness in AI. Previously, I completed my Masters at UBC. I was also an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/).
+I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
+I work on vision-language reasoning, including video reasoning, and bias & fairness in AI. Previously, I completed my Masters at UBC. I was also an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/), and a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu) with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/).
 
-In addition, I am a photographer in the city. I enjoy doing landscape, urban, and product photography. My work has over [100 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/aditya.chinchure/).
+In addition, I am a photographer in the city. I enjoy doing landscape, urban, and product photography. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/aditya.chinchure/).
 
 If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/aditya.chinchure/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
 
@@ -20,6 +21,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
+* [2024/12] Latest work: [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/)
 * [2024/10] 📚 Joining Toyota Technological Institute at Chicago (TTIC) as a Visiting Student, working with Dr. Matthew Turk
 * [2024/10] 🎉 [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is accepted at EMNLP 2024!
 * [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024!
@@ -75,7 +77,7 @@ Working on multimodal vision-language models, commonsense reasoning, bias and fa
 
 
 **Research Intern, Borealis AI, RBC** \
-_Vancouver | September 2022 - March 2023 \
+_Vancouver | September 2022 - March 2023_ \
 Worked on event time-series representation learning with transformers.
 
 **Graduate Research Assistant, Computer Vision Lab at UBC Computer Science** \
