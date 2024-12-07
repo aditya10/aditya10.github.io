@@ -37,6 +37,11 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 📚 Publications
 
+**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events** \
+**Aditya Chinchure**\*, Sahithya Ravi\*, Raymond Ng, Vered Shwartz, Boyang Li, Leonid Sigal (\* equal) \
+_Preprint_ \
+[Website](https://blackswan.cs.ubc.ca)
+
 **From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models** \
 Mehar Bhatia, Sahithya Ravi\*, **Aditya Chinchure**\*, Eunjeong Hwang, Vered Shwartz (\* equal) \
 _Accepted at EMNLP 2024_ \
@@ -67,7 +72,7 @@ _Poster at Emerging Technologies: BC's AI Showcase, organized by UBC's Centre fo
 
 ## 📑 Reviewing
 
-I have reviewed several papers for: TPAMI 2022, TPAMI 2023, CVPR 2024, ECCV 2024, TPAMI 2024
+I have reviewed several papers for: TPAMI 2024, ECCV 2024 (⭐️ Outstanding Reviewer), CVPR 2024, TPAMI 2023, TPAMI 2022
 
 ## 👨‍💻 Work
 
