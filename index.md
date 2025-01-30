@@ -21,8 +21,9 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
-* [2024/12] Latest work: [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/)
-* [2024/10] 📚 Joining Toyota Technological Institute at Chicago (TTIC) as a Visiting Student, working with Dr. Matthew Turk
+* [2025/01] 🎧 Our work on [Biases in Image Generation AI](https://tibet-ai.github.io) is [featured on the Knowledge at Wharton podcast](https://www.youtube.com/watch?v=zfdPb3DLqXA)!
+* [2024/12] Latest pre-print: [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/)
+* [2024/10] 📚 Joining Toyota Technological Institute at Chicago (TTIC) as a Visiting Researcher, working with Dr. Matthew Turk
 * [2024/10] 🎉 [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is accepted at EMNLP 2024!
 * [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024!
 * [2024/06] Preprint of our work [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is now available on ArXiv!
