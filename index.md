@@ -21,8 +21,10 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
+* [2025/03] Latest pre-print: [BiasConnect: Investigating Bias Interactions in Text-to-Image Models]()
+* [2025/02] 🎉 Our paper [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/) is accepted at CVPR 2025!
 * [2025/01] 🎧 Our work on [Biases in Image Generation AI](https://tibet-ai.github.io) is [featured on the Knowledge at Wharton podcast](https://www.youtube.com/watch?v=zfdPb3DLqXA)!
-* [2024/12] Latest pre-print: [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/)
+* [2024/12] Pre-print of our work, [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/), is now available!
 * [2024/10] 📚 Joining Toyota Technological Institute at Chicago (TTIC) as a Visiting Researcher, working with Dr. Matthew Turk
 * [2024/10] 🎉 [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is accepted at EMNLP 2024!
 * [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024!
@@ -38,9 +40,14 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 📚 Publications
 
+**BiasConnect: Investigating Bias Interactions in Text-to-Image Models** \
+Pushkar Shukla, **Aditya Chinchure**, Emily Diana, Alexander Tolbert, Kartik Hosanagar, Vineeth Balasubramanian, Leonid Sigal, Matthew Turk
+_Preprint_ \
+[Website (Coming Soon)]()
+
 **Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events** \
 **Aditya Chinchure**\*, Sahithya Ravi\*, Raymond Ng, Vered Shwartz, Boyang Li, Leonid Sigal (\* equal) \
-_Preprint_ \
+_Accepted at CVPR 2025_ \
 [Website](https://blackswan.cs.ubc.ca)
 
 **From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models** \
