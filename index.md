@@ -21,7 +21,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
-* [2025/03] Latest pre-print: [BiasConnect: Investigating Bias Interactions in Text-to-Image Models]()
+* [2025/03] Latest pre-print: [BiasConnect: Investigating Bias Interactions in Text-to-Image Models](https://arxiv.org/abs/2503.09763)
 * [2025/02] 🎉 Our paper [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/) is accepted at CVPR 2025!
 * [2025/01] 🎧 Our work on [Biases in Image Generation AI](https://tibet-ai.github.io) is [featured on the Knowledge at Wharton podcast](https://www.youtube.com/watch?v=zfdPb3DLqXA)!
 * [2024/12] Pre-print of our work, [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/), is now available!
@@ -41,19 +41,19 @@ If you are reading this, I would love to talk to you! I am always looking for op
 ## 📚 Publications
 
 **BiasConnect: Investigating Bias Interactions in Text-to-Image Models** \
-Pushkar Shukla, **Aditya Chinchure**, Emily Diana, Alexander Tolbert, Kartik Hosanagar, Vineeth Balasubramanian, Leonid Sigal, Matthew Turk
+Pushkar Shukla, **Aditya Chinchure**, Emily Diana, Alexander Tolbert, Kartik Hosanagar, Vineeth Balasubramanian, Leonid Sigal, Matthew Turk \
 _Preprint_ \
-[Website (Coming Soon)]()
+[arXiv](https://arxiv.org/abs/2503.09763)
 
 **Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events** \
 **Aditya Chinchure**\*, Sahithya Ravi\*, Raymond Ng, Vered Shwartz, Boyang Li, Leonid Sigal (\* equal) \
 _Accepted at CVPR 2025_ \
-[Website](https://blackswan.cs.ubc.ca)
+[arXiv](https://arxiv.org/abs/2412.05725) | [Website](https://blackswan.cs.ubc.ca)
 
 **From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models** \
 Mehar Bhatia, Sahithya Ravi\*, **Aditya Chinchure**\*, Eunjeong Hwang, Vered Shwartz (\* equal) \
 _Accepted at EMNLP 2024_ \
-[arXiv](https://arxiv.org/abs/2407.00263)
+[arXiv](https://arxiv.org/abs/2407.00263) | [Website](https://globalrg.github.io)
 
 **TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models** \
 **Aditya Chinchure**\*, Pushkar Shukla\*, Gaurav Bhatt, Kiri Salij, Kartik Hosanagar, Leonid Sigal, Matthew Turk (\* equal) \
