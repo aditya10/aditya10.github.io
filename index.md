@@ -10,7 +10,7 @@ home: true
 👋 Hello there! 
 
 I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
-I work on vision-language reasoning, including video understanding & reasoning, and bias & fairness in AI. Previously, I completed my Masters at UBC. I was also an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/), and a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu) with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/).
+I work on vision-language reasoning, including video understanding & reasoning, and bias & fairness in generative AI. Previously, I completed my Masters at UBC. I was an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/), and a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu) with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/).
 
 In addition, I enjoy doing photography for fun. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/aditya.chinchure/).
 
@@ -24,7 +24,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 * [2025/07] Attending & presenting our work on bias detection and video reasoning in text-to-image models at [Vision & Learning Workshop](https://sites.google.com/view/vancouver-icml2025/) @ ICML 2025!
 * [2025/06] ⭐ Awarded outstanding reviewer @ CVPR 2025. Attending CVPR in Nashville.
 * [2025/05] Latest pre-print: [Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](https://arxiv.org/abs/2505.17280)
-* [2025/04] 🔥 Among 30 researchers from Canada, including Yoshua Benjio, to attend the [Safety-Guaranteed LLMs](https://simons.berkeley.edu/workshops/safety-guaranteed-llms) workshop at Simons Institute, UC Berekely!
+* [2025/04] 🔥 Among 30 researchers from Canada, including Yoshua Bengio, to attend the [Safety-Guaranteed LLMs](https://simons.berkeley.edu/workshops/safety-guaranteed-llms) workshop at Simons Institute, UC Berekely!
 * [2025/02] 🎉 Our paper [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/) is accepted at CVPR 2025!
 * [2025/01] 🎧 Our work on [Biases in Image Generation AI](https://tibet-ai.github.io) is [featured on the Knowledge at Wharton podcast](https://www.youtube.com/watch?v=zfdPb3DLqXA)!
 * [2024/12] Pre-print of our work, [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/), is now available!
