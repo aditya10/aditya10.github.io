@@ -83,7 +83,7 @@ _Poster at Emerging Technologies: BC's AI Showcase, organized by UBC's Centre fo
 
 ## 📑 Reviewing
 
-I have reviewed several papers for: NeurIPS 2025, CVPR 2025 (⭐️ Outstanding Reviewer), ECCV 2025, TPAMI 2024, ECCV 2024 (⭐️ Outstanding Reviewer), CVPR 2024, TPAMI 2023, TPAMI 2022
+I have reviewed several papers for: NeurIPS 2025, CVPR 2025 (⭐️ Outstanding Reviewer), ICCV 2025, TPAMI 2024, ECCV 2024 (⭐️ Outstanding Reviewer), CVPR 2024, TPAMI 2023, TPAMI 2022
 
 ## 👨‍💻 Work
 
@@ -92,7 +92,7 @@ _Vancouver | May 2024 - Present_ \
 Working on multimodal vision-language models, commonsense reasoning, bias and fairness.
 
 **Visiting Researcher, Toyota Technological Institute at Chicago** \
-_Chicago | Oct 2025 - Dec 2025_ \
+_Chicago | Oct 2024 - Dec 2024_ \
 Worked on bias mitigation in image generation models.
 
 **Research Intern, Borealis AI, RBC** \
