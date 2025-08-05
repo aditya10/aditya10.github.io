@@ -22,6 +22,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 ## 🗞️ News
 
 * [2025/07] Attending & presenting our work on bias detection and video reasoning in text-to-image models at [Vision & Learning Workshop](https://sites.google.com/view/vancouver-icml2025/) @ ICML 2025!
+* [2025/07] Presented BlackSwan at [Vector Institute’s Endless Summer School](https://vectorinstitute.ai/event/endless-summer-school-multimodal-and-foundation-models/)
 * [2025/06] ⭐ Awarded outstanding reviewer @ CVPR 2025. Attending CVPR in Nashville.
 * [2025/05] Latest pre-print: [Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](https://arxiv.org/abs/2505.17280)
 * [2025/04] 🔥 Among 30 researchers from Canada, including Yoshua Bengio, to attend the [Safety-Guaranteed LLMs](https://simons.berkeley.edu/workshops/safety-guaranteed-llms) workshop at Simons Institute, UC Berekely!
@@ -68,7 +69,7 @@ _Accepted at ECCV 2024_ \
 [UBC Library](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441296)
 
 **VLC-BERT: Visual Question Answering with Contextualized Commonsense Knowledge** \
-Sahithya Ravi\*, **Aditya Chinchure**\*, Leonid Sigal, Renjie Liao, Vered Shwartz (\* equal) \
+Sahithya Ravi\*, **Aditya Chinchure***, Leonid Sigal, Renjie Liao, Vered Shwartz (\* equal) \
 _Accepted at WACV 2023_ \
 [arXiv](https://arxiv.org/abs/2210.13626) | [Code](https://github.com/aditya10/VLC-BERT)
 
@@ -140,4 +141,3 @@ International Student – Faculty of Science Scholarship & Dean’s Honour List
 * Find my photography work on [Instagram](https://www.instagram.com/aditya.chinchure/) and [Unsplash](https://unsplash.com/@adityachinchure)
 * In the news: [Vancouver’s realtors are people too, say trio behind @realtorsofvancouver](https://www.vancouverisawesome.com/local-news/vancouvers-realtors-people-1936819) -->
 
-```
