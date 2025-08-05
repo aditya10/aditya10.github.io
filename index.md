@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Aditya Chinchure
 permalink: /
@@ -141,6 +140,3 @@ International Student – Faculty of Science Scholarship & Dean’s Honour List
 
 * Find my photography work on [Instagram](https://www.instagram.com/aditya.chinchure/) and [Unsplash](https://unsplash.com/@adityachinchure)
 * In the news: [Vancouver’s realtors are people too, say trio behind @realtorsofvancouver](https://www.vancouverisawesome.com/local-news/vancouvers-realtors-people-1936819) -->
-
-
-```
