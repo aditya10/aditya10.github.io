@@ -21,6 +21,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
+* [2025/08] 🎉 Our paper [Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](https://arxiv.org/abs/2505.17280) is accepted at EMNLP 2025!
 * [2025/08] Presented Black Swan at [Vector Institute’s Endless Summer School](https://vectorinstitute.ai/event/endless-summer-school-multimodal-and-foundation-models/)
 * [2025/07] Attending & presenting our work on bias detection and video reasoning in text-to-image models at [Vision & Learning Workshop](https://sites.google.com/view/vancouver-icml2025/) @ ICML 2025!
 * [2025/06] ⭐ Awarded outstanding reviewer @ CVPR 2025. Attending CVPR in Nashville.
@@ -46,7 +47,7 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 **Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models** \
 Pushkar Shukla\*, **Aditya Chinchure**\*, Emily Diana, Alexander Tolbert, Kartik Hosanagar, Vineeth Balasubramanian, Leonid Sigal, Matthew Turk (\* equal) \
-_Preprint_ \
+Accepted at EMNLP 2025 (Findings) \
 [arXiv](https://arxiv.org/abs/2505.17280)
 
 **Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events** \
