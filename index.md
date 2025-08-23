@@ -12,9 +12,9 @@ home: true
 I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
 I work on vision-language reasoning, including video understanding & reasoning, and bias & fairness in generative AI. Previously, I completed my Masters at UBC. I was an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/), and a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu) with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/).
 
-In addition, I enjoy doing photography for fun. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/aditya.chinchure/).
+In addition, I enjoy doing photography for fun. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
 
-If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/aditya.chinchure/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
+If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/jpgs.by.adi/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
 
 <a class="link-button" href="assets/AdityaChinchure-Resume.pdf">Resume</a> • <a class="link-button" href="/projects">Projects</a> • <a class="link-button" href="https://www.linkedin.com/in/adityachinchure/">LinkedIn</a>
 
@@ -139,5 +139,5 @@ International Student – Faculty of Science Scholarship & Dean’s Honour List
 
 <!-- ## 📸 Other
 
-* Find my photography work on [Instagram](https://www.instagram.com/aditya.chinchure/) and [Unsplash](https://unsplash.com/@adityachinchure)
+* Find my photography work on [Instagram](https://www.instagram.com/jpgs.by.adi/) and [Unsplash](https://unsplash.com/@adityachinchure)
 * In the news: [Vancouver’s realtors are people too, say trio behind @realtorsofvancouver](https://www.vancouverisawesome.com/local-news/vancouvers-realtors-people-1936819) -->
