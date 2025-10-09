@@ -11,9 +11,9 @@ home: true
 
 I am a PhD student at the Computer Vision and NLP Labs at University of British Columbia. I am fortunate to be advised by [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/), and supported by the highly competitive [UBC Four Year Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf).
 
-My focus lies in leveraging methods from _human reasoning and cognition_ to develop vision-language models 👁️ and evaluation tools 🛠️. I have worked on image and video understanding & reasoning, as well as bias and fairness in Generative AI.
+My research focus is on applying methods from _human reasoning and cognition_ to develop vision-language models 👁️ and evaluation tools 🛠️. I have worked on image and video understanding & reasoning, as well as bias and fairness in Generative AI.
 
-I am an incoming research intern at [Ideogram](https://ideogram.ai/t/explore). Previously, I was a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu) with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/) and an intern at [Borealis AI](https://www.borealisai.com) with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/). In addition, I enjoy doing photography for fun. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
+I am an incoming research intern at [Ideogram](https://ideogram.ai/t/explore). Previously, I was a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu), working with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/), and an intern at [Borealis AI](https://www.borealisai.com) with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/). In addition, I enjoy doing photography as a hobby. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
 
 If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/jpgs.by.adi/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
 
@@ -89,9 +89,9 @@ _Poster at Emerging Technologies: BC's AI Showcase, organized by UBC's Centre fo
 
 ## 🌎 Collaborators
 
-> _"It takes a village to raise a child, and a global team (and lots of caffine) to raise a PhD"_
+> _"It takes a village to raise a child, and a brilliant team (and lots of caffine) to raise a PhD"_
 
-Apart from my supervisors, I have had the pleasure of collaborating with several brilliant minds:
+Apart from my supervisors, I have had the pleasure of collaborating with:
 
 * [Sahithya Ravi](https://sahithyaravi.github.io/) (UBC NLP)
 * [Pushkar Shukla](https://pushkershukla.github.io) (TTIC)
@@ -101,8 +101,7 @@ Apart from my supervisors, I have had the pleasure of collaborating with several
 * [Boyang (Albert) Li](http://www.boyangli.org) (NTU Singapore)
 * [Renjie Liao](https://lrjconan.github.io) (UBC ECE)
 * [Mehar Bhatia](https://meharbhatia.github.io) (Mila)
-* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV)
-
+* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV) \
 ... and many more.
 
 ## 📑 Reviewing
