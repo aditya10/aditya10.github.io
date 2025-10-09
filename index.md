@@ -101,7 +101,8 @@ Apart from my supervisors, I have had the pleasure of collaborating with:
 * [Boyang (Albert) Li](http://www.boyangli.org) (NTU Singapore)
 * [Renjie Liao](https://lrjconan.github.io) (UBC ECE)
 * [Mehar Bhatia](https://meharbhatia.github.io) (Mila)
-* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV) \
+* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV) 
+
 ... and many more.
 
 ## 📑 Reviewing
