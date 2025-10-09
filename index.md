@@ -9,8 +9,11 @@ home: true
 
 👋 Hello there! 
 
-I am a PhD student at the Computer Vision Lab at University of British Columbia with [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
-I work on vision-language reasoning, including video understanding & reasoning, and bias & fairness in generative AI. Previously, I completed my Masters at UBC. I was an intern at [Borealis AI](https://www.borealisai.com), working with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/), and a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu) with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/).
+I am a PhD student at the Computer Vision and NLP Labs at University of British Columbia. I am fortunate to be advised by [Dr. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) and [Dr. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/), and supported by the highly competitive [UBC Four Year Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf).
+
+My focus lies in leveraging methods from _human reasoning and cognition_ to develop vision-language models 👁️ and challenging evaluation tools 🛠️. I have worked on image and video understanding & reasoning, as well as bias and fairness in Generative AI.
+
+I am an incoming research intern at [Ideogram](https://ideogram.ai/t/explore). Previously, I was a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu) with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/) and an intern at [Borealis AI](https://www.borealisai.com) with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/).
 
 In addition, I enjoy doing photography for fun. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
 
@@ -90,6 +93,21 @@ _Poster at Emerging Technologies: BC's AI Showcase, organized by UBC's Centre fo
 
 I have reviewed several papers for: NeurIPS 2025, CVPR 2025 (⭐️ Outstanding Reviewer), ICCV 2025, TPAMI 2024, ECCV 2024 (⭐️ Outstanding Reviewer), CVPR 2024, TPAMI 2023, TPAMI 2022
 
+## 🌎 Collaborators
+
+I have had the pleasure of collaborating with several brilliant minds:
+
+* [Sahithya Ravi](https://sahithyaravi.github.io/) (UBC NLP)
+* [Pushkar Shukla](https://pushkershukla.github.io) (TTIC)
+* [Matthew Turk](https://home.ttic.edu/~mturk/) (TTIC)
+* [Kartik Hosanagar](http://www.hosanagar.com) (Wharton)
+* [Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/) (Microsoft Research)
+* [Albert (Boyang) Li](http://www.boyangli.org) (NTU Singapore)
+* [Renjie Liao](https://lrjconan.github.io) (UBC ECE)
+* [Mehar Bhatia](https://meharbhatia.github.io) (Mila)
+* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV)
+... and many more.
+
 ## 👨‍💻 Work
 
 **PhD Student, CV & NLP at UBC** \
@@ -124,7 +142,7 @@ Developed machine learning models for text classification, sentiment analysis an
 _Vancouver | September 2018 – April 2019_ \
 Worked in a team of eight to scale up our application for cloud deployments. 
 
-## 👨‍🎓 Education
+<!-- ## 👨‍🎓 Education
 
 **PhD in Computer Vision and NLP** \
 The University of British Columbia |
@@ -138,7 +156,8 @@ The University of British Columbia |
 **BSc. Honours in Computer Science** \
 The University of British Columbia | 
 2016 - 2021 |  GPA: 88% \
-International Student – Faculty of Science Scholarship & Dean’s Honour List
+International Student – Faculty of Science Scholarship & Dean’s Honour List -->
+
 
 <!-- ## 📸 Other
 
