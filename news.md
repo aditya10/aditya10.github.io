@@ -9,6 +9,8 @@ comments: false
 
 # News & Updates
 
+* [2025/11] 🤖 Joining [Ideogram](https://ideogram.ai/t/explore) as a ML Intern, working with T2I models at scale.
+* [2025/11] [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is now available on ArXiv!
 * [2025/09] Pre-print of our work, [SPIKE-RL: Video-LLMs meet Bayesian Surprise](https://www.arxiv.org/abs/2509.23433), is now available on ArXiv!
 * [2025/09] 🎉 Our position paper, [World Models must live in Parallel Worlds](assets/Position__World_Models_must_live_in_parallel_worlds_arxiv.pdf), accepted at NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning.
 * [2025/08] 🎉 Our paper [Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](https://arxiv.org/abs/2505.17280) is accepted at EMNLP 2025!
