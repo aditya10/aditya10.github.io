@@ -13,7 +13,9 @@ I am a PhD student at the Computer Vision and NLP Labs at University of British 
 
 My research focus is on applying methods from _human reasoning and cognition_ to develop vision-language models 👁️ and evaluation tools 🛠️. I have worked on image and video understanding & reasoning, as well as bias and fairness in Generative AI.
 
-I am an incoming research intern at [Ideogram](https://ideogram.ai/t/explore). Previously, I was a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu), working with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/), and an intern at [Borealis AI](https://www.borealisai.com) with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/). In addition, I enjoy doing photography as a hobby. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
+I recently joined as an ML intern at [Ideogram](https://ideogram.ai/t/explore). Previously, I was a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu), working with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/), and an intern at [Borealis AI](https://www.borealisai.com) with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/). 
+
+In addition, I enjoy doing photography as a hobby. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
 
 If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/jpgs.by.adi/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
 
@@ -22,6 +24,8 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
+* [2025/11] 🪄 Joining Ideogram as a ML Intern, working with T2I models at scale.
+* [2025/11] [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is now available on ArXiv!
 * [2025/09] Pre-print of our work, [SPIKE-RL: Video-LLMs meet Bayesian Surprise](https://www.arxiv.org/abs/2509.23433), is now available on ArXiv!
 * [2025/09] 🎉 Our position paper, [World Models must live in Parallel Worlds](assets/Position__World_Models_must_live_in_parallel_worlds_arxiv.pdf), accepted at NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning (LAW 2025).
 * [2025/08] 🎉 Our paper [Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](https://arxiv.org/abs/2505.17280) is accepted at EMNLP 2025!
@@ -39,6 +43,11 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 📚 Publications
 
+**Spotlight: Identifying and Localizing Video Generation Errors Using VLMs** \
+**Aditya Chinchure**, Sahithya Ravi, Pushkar Shukla, Vered Shwartz, Leonid Sigal \
+_Preprint_ \
+[arXiv](https://arxiv.org/abs/2511.18102v1)
+
 **SPIKE-RL: Video-LLMs meet Bayesian Surprise** \
 Sahithya Ravi, **Aditya Chinchure**, Raymond Ng, Leonid Sigal, Vered Shwartz \
 _Preprint_ \
@@ -47,12 +56,12 @@ _Preprint_ \
 **Position: World Models must live in Parallel Worlds** \
 Sahithya Ravi\*, **Aditya Chinchure**\*, Pushkar Shukla, Vered Shwartz, Leonid Sigal (\* equal) \
 _Accepted at NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (LAW)_ \
-[paper](assets/Position__World_Models_must_live_in_parallel_worlds_arxiv.pdf)
+[OpenReview](https://openreview.net/pdf?id=sj9Nyke43S) | [Paper](assets/Position__World_Models_must_live_in_parallel_worlds_arxiv.pdf)
 
 **Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models** \
 Pushkar Shukla\*, **Aditya Chinchure**\*, Emily Diana, Alexander Tolbert, Kartik Hosanagar, Vineeth Balasubramanian, Leonid Sigal, Matthew Turk (\* equal) \
 _Accepted at EMNLP 2025 (Findings)_ \
-[arXiv](https://arxiv.org/abs/2505.17280)
+[arXiv](https://arxiv.org/abs/2505.17280) | [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.665/)
 
 **Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events** \
 **Aditya Chinchure**\*, Sahithya Ravi\*, Raymond Ng, Vered Shwartz, Boyang Li, Leonid Sigal (\* equal) \
@@ -94,14 +103,14 @@ _Poster at Emerging Technologies: BC's AI Showcase, organized by UBC's Centre fo
 Apart from my supervisors, I have had the pleasure of collaborating with:
 
 * [Sahithya Ravi](https://sahithyaravi.github.io/) (UBC NLP)
-* [Pushkar Shukla](https://pushkershukla.github.io) (TTIC)
+* [Pushkar Shukla](https://pushkershukla.github.io) (Wharton/TTIC)
 * [Matthew Turk](https://home.ttic.edu/~mturk/) (TTIC)
 * [Kartik Hosanagar](http://www.hosanagar.com) (Wharton)
 * [Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/) (Microsoft Research)
 * [Boyang (Albert) Li](http://www.boyangli.org) (NTU Singapore)
 * [Renjie Liao](https://lrjconan.github.io) (UBC ECE)
 * [Mehar Bhatia](https://meharbhatia.github.io) (Mila)
-* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV) 
+* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV)
 
 ... and many more.
 
@@ -111,12 +120,16 @@ I have reviewed several papers for: NeurIPS 2025, CVPR 2025 (⭐️ Outstanding 
 
 ## 👨‍💻 Work
 
+**Machine Learning Intern, Ideogram** \
+_Toronto (Remote) | November 2025 - Present_ \
+Improving text-to-image generation at scale with evaluation methods.
+
 **PhD Student, CV & NLP at UBC** \
 _Vancouver | May 2024 - Present_ \
-Working on multimodal vision-language models, commonsense reasoning, bias and fairness.
+Working on multimodal vision-language models, video understanding, commonsense reasoning, bias and fairness.
 
 **Visiting Researcher, Toyota Technological Institute at Chicago** \
-_Chicago | Oct 2024 - Dec 2024_ \
+_Chicago | October 2024 - December 2024_ \
 Worked on bias mitigation in image generation models.
 
 **Research Intern, Borealis AI, RBC** \
