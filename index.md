@@ -17,7 +17,7 @@ I recently joined as an ML intern at [Ideogram](https://ideogram.ai/t/explore). 
 
 If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/jpgs.by.adi/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
 
-<a class="link-button" href="assets/AdityaChinchure-Resume.pdf">Resume</a> • <a class="link-button" href="/projects">Projects</a> • <a class="link-button" href="https://www.linkedin.com/in/adityachinchure/">LinkedIn</a>
+<a class="link-button" href="https://scholar.google.com/citations?user=WZhACa8AAAAJ&hl=en">Google Scholar</a> • <a class="link-button" href="assets/AdityaChinchure-Resume.pdf">Resume</a> • <a class="link-button" href="/projects">Projects</a> • <a class="link-button" href="https://www.linkedin.com/in/adityachinchure/">LinkedIn</a>
 
 
 ## 🗞️ News
