@@ -71,6 +71,19 @@
 .page-content {
   padding-top: 8px;
 
+  .post-media {
+    display: block;
+    width: 50%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 3px;
+    background-color: $black;
+
+    @include media-query($on-mobile) {
+      width: 100%;
+    }
+  }
+
   iframe {
     text-align: center;
   }

@@ -8,7 +8,7 @@ layout: default
 <article class="post-item">
   <span class="post-item-image">
     <a href="{{ post.url }}">
-      <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
+      {% include post_media.html video=post.video image=post.image poster=post.poster alt=post.title class="post-item-media" autoplay=true %}
     </a>
   </span>
   <span class="post-item-info">
@@ -31,7 +31,7 @@ layout: default
 <article class="post-item">
   <span class="post-item-image">
     <a href="{{ post.url }}">
-      <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
+      {% include post_media.html video=post.video image=post.image poster=post.poster alt=post.title class="post-item-media" autoplay=true %}
     </a>
   </span>
   <span class="post-item-info">
@@ -52,7 +52,7 @@ layout: default
 <article class="post-item">
   <span class="post-item-image">
     <a href="{{ post.url }}">
-      <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
+      {% include post_media.html video=post.video image=post.image poster=post.poster alt=post.title class="post-item-media" autoplay=true %}
     </a>
   </span>
   <span class="post-item-info">

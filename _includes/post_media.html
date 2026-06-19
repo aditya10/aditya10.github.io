@@ -1,0 +1,18 @@
+{% if include.video %}
+{% assign video_src = include.video | relative_url | replace: ' ', '%20' %}
+{% assign poster_src = include.poster | relative_url | replace: ' ', '%20' %}
+<video
+  class="{{ include.class }}"
+  src="{{ video_src }}"
+  {% if include.controls %}controls{% endif %}
+  muted
+  playsinline
+  preload="metadata"
+  {% if include.autoplay %}autoplay loop{% endif %}
+  {% if include.poster %}poster="{{ poster_src }}"{% endif %}
+>
+  Your browser does not support the video tag.
+</video>
+{% elsif include.image %}
+<img class="{{ include.class }}" src="{{ include.image | relative_url }}" alt="{{ include.alt | escape }}" />
+{% endif %}

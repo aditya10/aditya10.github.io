@@ -1,6 +1,62 @@
 [
   
     {
+      "title"    : "Spotlight: Identifying and Localizing Video Generation Errors Using VLMs",
+      "description" : "Spotlight is a benchmark for evaluating whether VLMs can detect, localize, and explain fine-grained errors in high-fidelity text-to-video generations, with 600 videos and over 1,600 annotated error localizations.",
+      "tags"     : "",
+      "url"      : "/spotlight/",
+      "date"     : "2026-06-01 13:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "SPIKE-RL: Video-LLMs meet Bayesian Surprise",
+      "description" : "SPIKE and SPIKE-RL use Bayesian Surprise to identify memorable moments in videos and guide surprise-weighted frame sampling, improving Video-LLM performance across downstream benchmarks.",
+      "tags"     : "",
+      "url"      : "/spikerl/",
+      "date"     : "2026-04-01 13:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "Position: World Models must live in Parallel Worlds",
+      "description" : "We argue that world models need counterfactual simulation: the ability to reason across alternative realities and what-if scenarios, enabling safer, more capable, and more creative agents in novel environments.",
+      "tags"     : "",
+      "url"      : "/world-models-position/",
+      "date"     : "2025-12-01 12:29:20 -0800"
+    } ,
+  
+    {
+      "title"    : "Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models",
+      "description" : "The biases exhibited by text-to-image (TTI) models are often treated as independent, though in reality, they may be deeply interrelated. Fixing bias along one dimension can inadvertently affect another. We show measure and quantify such interactions, and propose InterMit, an intersectional bias mitigation algorithm that leverages these insights to achieves superior results with fewer steps.",
+      "tags"     : "",
+      "url"      : "/intersectionality/",
+      "date"     : "2025-09-01 13:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events",
+      "description" : "Black Swan is a benchmark for evaluating vision-language models&#39; (VLMs) commonsense reasoning capabilities in videos, particularly in abductive and defeasible reasoning tasks. It focuses on atypical events, requiring models to reason about unexpected occurrences and adapt their hypotheses based on new information.",
+      "tags"     : "",
+      "url"      : "/black-swan/",
+      "date"     : "2025-06-01 13:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models",
+      "description" : "We propose a general approach to study and quantify a broad spectrum of biases, for any TTI model and for any prompt, using counterfactual reasoning. Unlike other works that evaluate generated images on a predefined set of bias axes, our approach automatically identifies potential biases that might be relevant to the given prompt, and measures those biases.",
+      "tags"     : "",
+      "url"      : "/tibet/",
+      "date"     : "2024-07-09 13:29:20 -0700"
+    } ,
+  
+    {
+      "title"    : "From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models",
+      "description" : "We introduce the GlobalRG benchmark, comprising two challenging tasks, retrieval across universals and cultural visual grounding, to test VL models&#39; cultural inclusivity.",
+      "tags"     : "",
+      "url"      : "/multicultural/",
+      "date"     : "2024-06-28 13:29:20 -0700"
+    } ,
+  
+    {
       "title"    : "DE-TensoRF: Data-efficient and fast NeRFs",
       "description" : "Developed DE-TensoRF, a model that can render 3D objects with as few as 3 images, and in under 15 min on a single GPU. We achieved the highest grade in our class, and led to collaboration efforts with Dr. Helge Rhodin’s research group.",
       "tags"     : "",
@@ -21,7 +77,7 @@
       "description" : "We present a new Vision-Language-Commonsense transformer model, VLC-BERT, that incorporates contextualized knowledge using Commonsense Transformer (COMET) to solve Visual Question Answering (VQA) tasks that require commonsense reasoning.",
       "tags"     : "",
       "url"      : "/vlc-bert/",
-      "date"     : "2022-10-23 19:29:20 -0700"
+      "date"     : "2022-10-24 10:29:20 -0700"
     } ,
   
     {
