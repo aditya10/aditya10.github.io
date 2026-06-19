@@ -13,7 +13,7 @@ I am a PhD student at the Computer Vision and NLP Labs at University of British 
 
 My research focus is on applying methods from _human reasoning and cognition_ to develop vision-language models 👁️ and evaluation tools 🛠️. I have worked on image and video understanding & reasoning, as well as bias and fairness in Generative AI.
 
-I recently joined as an ML intern at [Ideogram](https://ideogram.ai/t/explore). Previously, I was a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu), working with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/), and an intern at [Borealis AI](https://www.borealisai.com) with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/). In addition, I enjoy doing photography as a hobby. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
+I recently completed my internship at Ideogram, where I worked on [Ideogram 4.0](https://ideogram.ai/models/4.0/). Previously, I was a visiting scholar at [Toyota Technological Institute at Chicago](https://ttic.edu), working with [Dr. Matthew Turk](https://home.ttic.edu/~mturk/), and an intern at [Borealis AI](https://www.borealisai.com) with [Dr. Fred Tung](https://www.borealisai.com/team-member/fred-tung/). In addition, I enjoy doing photography as a hobby. My work has over [200 million views on Unsplash](https://unsplash.com/@adityachinchure). You can find my latest photos on [Instagram](https://www.instagram.com/jpgs.by.adi/).
 
 If you are reading this, I would love to talk to you! I am always looking for opportunities to collaborate. Also, my inbox is open if you have any questions about student life at UBC or Vancouver. Message me on [Instagram](https://www.instagram.com/jpgs.by.adi/) or send me an [email](mailto:aditya.chinchure+web@gmail.com).
 
@@ -22,7 +22,10 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 ## 🗞️ News
 
-* [2025/11] 🤖 Joining [Ideogram](https://ideogram.ai/t/explore) as a ML Intern, working with T2I models at scale.
+* [2026/06] 🎉 My paper [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is accepted at ECCV 2026!
+* [2026/06] 🔥 Organizing the [CogVL Workshop at CVPR 2026](https://cogvl.github.io). Our keynote speakers include Trevor Darrel, Katerina Fragkiadaki, Judy Fan and Alane Suhr.  
+* [2026/04] ✈️ Attending ICLR 2026 in Rio de Janeiro, Brazil, to present [SPIKE-RL](https://www.arxiv.org/abs/2509.23433).
+* [2025/11] 🤖 Joining [Ideogram](https://ideogram.ai/t/explore) as a ML Intern, working on T2I models at scale.
 * [2025/11] [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is now available on ArXiv!
 * [2025/09] Pre-print of our work, [SPIKE-RL: Video-LLMs meet Bayesian Surprise](https://www.arxiv.org/abs/2509.23433), is now available on ArXiv!
 * [2025/09] 🎉 Our position paper, [World Models must live in Parallel Worlds](assets/Position__World_Models_must_live_in_parallel_worlds_arxiv.pdf), accepted at NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning (LAW 2025).
@@ -43,12 +46,12 @@ If you are reading this, I would love to talk to you! I am always looking for op
 
 **Spotlight: Identifying and Localizing Video Generation Errors Using VLMs** \
 **Aditya Chinchure**, Sahithya Ravi, Pushkar Shukla, Vered Shwartz, Leonid Sigal \
-_Preprint_ \
+_Accepted at ECCV 2026_ \
 [arXiv](https://arxiv.org/abs/2511.18102v1)
 
 **SPIKE-RL: Video-LLMs meet Bayesian Surprise** \
 Sahithya Ravi, **Aditya Chinchure**, Raymond Ng, Leonid Sigal, Vered Shwartz \
-_Preprint_ \
+_Accepted at ICLR 2026_ \
 [arXiv](https://www.arxiv.org/abs/2509.23433) 
 
 **Position: World Models must live in Parallel Worlds** \
@@ -118,13 +121,13 @@ I have reviewed several papers for: NeurIPS 2025, CVPR 2025 (⭐️ Outstanding 
 
 ## 👨‍💻 Work
 
-**Machine Learning Intern, Ideogram** \
-_Toronto (Remote) | November 2025 - Present_ \
-Improving text-to-image generation at scale with evaluation methods.
-
 **PhD Student, CV & NLP at UBC** \
 _Vancouver | May 2024 - Present_ \
 Working on multimodal vision-language models, video understanding, commonsense reasoning, bias and fairness.
+
+**Machine Learning Intern, Ideogram** \
+_Toronto (Remote) | November 2025 - May 2026_ \
+Worked with the ML team to develop methods for evaluating and improving the [Ideogram 4.0](https://ideogram.ai/models/4.0/) text-to-image model.
 
 **Visiting Researcher, Toyota Technological Institute at Chicago** \
 _Chicago | October 2024 - December 2024_ \
