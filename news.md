@@ -9,7 +9,10 @@ comments: false
 
 # News & Updates
 
-* [2025/11] 🤖 Joining [Ideogram](https://ideogram.ai/t/explore) as a ML Intern, working with T2I models at scale.
+* [2026/06] 🎉 My paper [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is accepted at ECCV 2026!
+* [2026/06] 🔥 Organizing the [CogVL Workshop at CVPR 2026](https://cogvl.github.io). Our keynote speakers include Trevor Darrell, Katerina Fragkiadaki, Judy Fan and Alane Suhr.  
+* [2026/04] ✈️ Attending ICLR 2026 in Rio de Janeiro, Brazil, to present [SPIKE-RL](https://www.arxiv.org/abs/2509.23433).
+* [2025/11] 🤖 Joining [Ideogram](https://ideogram.ai/t/explore) as a ML Intern, working on T2I models at scale.
 * [2025/11] [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is now available on ArXiv!
 * [2025/09] Pre-print of our work, [SPIKE-RL: Video-LLMs meet Bayesian Surprise](https://www.arxiv.org/abs/2509.23433), is now available on ArXiv!
 * [2025/09] 🎉 Our position paper, [World Models must live in Parallel Worlds](assets/Position__World_Models_must_live_in_parallel_worlds_arxiv.pdf), accepted at NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning.

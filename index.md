@@ -23,22 +23,19 @@ If you are reading this, I would love to talk to you! I am always looking for op
 ## 🗞️ News
 
 * [2026/06] 🎉 My paper [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is accepted at ECCV 2026!
-* [2026/06] 🔥 Organizing the [CogVL Workshop at CVPR 2026](https://cogvl.github.io). Our keynote speakers include Trevor Darrel, Katerina Fragkiadaki, Judy Fan and Alane Suhr.  
+* [2026/06] 🔥 Organizing the [CogVL Workshop at CVPR 2026](https://cogvl.github.io). Our keynote speakers include Trevor Darrell, Katerina Fragkiadaki, Judy Fan and Alane Suhr.  
 * [2026/04] ✈️ Attending ICLR 2026 in Rio de Janeiro, Brazil, to present [SPIKE-RL](https://www.arxiv.org/abs/2509.23433).
 * [2025/11] 🤖 Joining [Ideogram](https://ideogram.ai/t/explore) as a ML Intern, working on T2I models at scale.
 * [2025/11] [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is now available on ArXiv!
 * [2025/09] Pre-print of our work, [SPIKE-RL: Video-LLMs meet Bayesian Surprise](https://www.arxiv.org/abs/2509.23433), is now available on ArXiv!
 * [2025/09] 🎉 Our position paper, [World Models must live in Parallel Worlds](assets/Position__World_Models_must_live_in_parallel_worlds_arxiv.pdf), accepted at NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning (LAW 2025).
 * [2025/08] 🎉 Our paper [Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](https://arxiv.org/abs/2505.17280) is accepted at EMNLP 2025!
-* [2025/08] Presented Black Swan at [Vector Institute’s Endless Summer School](https://vectorinstitute.ai/event/endless-summer-school-multimodal-and-foundation-models/)
 * [2025/07] Attending & presenting our work on bias detection and video reasoning in text-to-image models at [Vision & Learning Workshop](https://sites.google.com/view/vancouver-icml2025/) @ ICML 2025!
 * [2025/06] ⭐ Awarded outstanding reviewer @ CVPR 2025. Attending CVPR in Nashville.
 * [2025/04] 🔥 Among 30 researchers from Canada, including Yoshua Bengio, to attend the [Safety-Guaranteed LLMs](https://simons.berkeley.edu/workshops/safety-guaranteed-llms) workshop at Simons Institute, UC Berekely!
 * [2025/02] 🎉 Our paper [Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events](http://blackswan.cs.ubc.ca/) is accepted at CVPR 2025!
 * [2025/01] 🎧 Our work on [Biases in Image Generation AI](https://tibet-ai.github.io) is [featured on the Knowledge at Wharton podcast](https://www.youtube.com/watch?v=zfdPb3DLqXA)!
 * [2024/10] 📚 Joining Toyota Technological Institute at Chicago (TTIC) as a Visiting Researcher, working with Dr. Matthew Turk
-* [2024/10] 🎉 [From Local Concepts to Universals: Evaluating the Multicultural Understanding of VL Models](https://arxiv.org/abs/2407.00263) is accepted at EMNLP 2024!
-* [2024/07] 🎉 Our paper [TIBET: Identifying and Evaluating Biases in T2I models](https://tibet-ai.github.io) is accepted at ECCV 2024!
 
 [📣 See More](/news)
 
