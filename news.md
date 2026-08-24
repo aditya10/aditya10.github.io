@@ -9,6 +9,7 @@ comments: false
 
 # News & Updates
 
+* [2026/08] 🗣️ Giving a talk at TU Delft on "Expecting the Unexpected: Reasoning and Localizing Surprise using Video-LLMs" on Sep 4, 2026. Attending ECCV 2026.
 * [2026/06] 🎉 My paper [Spotlight: Identifying and Localizing Video Generation Errors Using VLMs](https://arxiv.org/abs/2511.18102v1) is accepted at ECCV 2026!
 * [2026/06] 🔥 Organizing the [CogVL Workshop at CVPR 2026](https://cogvl.github.io). Our keynote speakers include Trevor Darrell, Katerina Fragkiadaki, Judy Fan and Alane Suhr.  
 * [2026/04] ✈️ Attending ICLR 2026 in Rio de Janeiro, Brazil, to present [SPIKE-RL](https://www.arxiv.org/abs/2509.23433).
