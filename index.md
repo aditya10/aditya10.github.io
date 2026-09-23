@@ -113,9 +113,6 @@ Apart from my supervisors, I have had the pleasure of collaborating with:
 
 ... and many more.
 
-## 📑 Reviewing
-
-I have reviewed several papers for: NeurIPS 2025, CVPR 2025 (⭐️ Outstanding Reviewer), ICCV 2025, TPAMI 2024, ECCV 2024 (⭐️ Outstanding Reviewer), CVPR 2024, TPAMI 2023, TPAMI 2022
 
 ## 👨‍💻 Work
 
@@ -155,24 +152,37 @@ Developed BERT models for text classification, sentiment analysis and entity rec
 _Vancouver | September 2018 – April 2019_ \
 Worked on scaling up our AppNeta's platform for network monitoring for cloud deployments. 
 
-<!-- ## 👨‍🎓 Education
+## 👨‍🎓 Education
 
 **PhD in Computer Vision and NLP** \
-The University of British Columbia |
+The University of British Columbia, Vector Institute |
 2024 onwards \
+_Supervised by Dr. Leonid Sigal and Dr. Vered Shwartz_ \
 Four Year Fellowship (4YF) Recipient
 
 **MSc. in Computer Science** \
 The University of British Columbia |
-2021 - 2024
+2021 - 2024 \
+_Supervised by Dr. Leonid Sigal and Dr. Renjie Liao_ \
+Thesis: Visual Question Answering with Contextualized Commonsense Knowledge 
 
 **BSc. Honours in Computer Science** \
 The University of British Columbia | 
-2016 - 2021 |  GPA: 88% \
-International Student – Faculty of Science Scholarship & Dean’s Honour List -->
+2016 - 2021 | GPA: 4.20 | Distinction \
+International Student – Faculty of Science Scholarship & Dean’s Honour List
 
 
 <!-- ## 📸 Other
 
 * Find my photography work on [Instagram](https://www.instagram.com/jpgs.by.adi/) and [Unsplash](https://unsplash.com/@adityachinchure)
 * In the news: [Vancouver’s realtors are people too, say trio behind @realtorsofvancouver](https://www.vancouverisawesome.com/local-news/vancouvers-realtors-people-1936819) -->
+
+## 📑 Service, Teaching & Talks
+
+**Organizing:** Lead organizer of the [CogVL Workshop](https://cogvl.github.io) at CVPR 2026, including the Black Swan Challenge.
+
+**Mentorship & Talks:** Mentoring three undergrad and master's students on multimodal projects. Talks at TU Delft and CIFAR AI Safety Solution Network on Synthetic AI (2026). Guest lectures in CPSC 532V: Commonsense Reasoning (2025–26).
+
+**Teaching Assistant:** Computer Vision (CPSC 425), Intro to AI (CPSC 322), and three database courses at UBC.
+
+**Reviewing:** CVPR, ECCV, ICCV, NeurIPS, AAAI, TPAMI and workshops at CVPR and ICCV (2022–2026). ⭐️ Outstanding Reviewer at ECCV 2024 and CVPR 2025.
