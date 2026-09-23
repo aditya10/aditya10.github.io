@@ -101,15 +101,15 @@ _Poster at Emerging Technologies: BC's AI Showcase, organized by UBC's Centre fo
 
 Apart from my supervisors, I have had the pleasure of collaborating with:
 
-* [Sahithya Ravi](https://sahithyaravi.github.io/) (UBC NLP)
-* [Pushkar Shukla](https://pushkershukla.github.io) (Wharton/TTIC)
+* [Sahithya Ravi](https://sahithyaravi.github.io/) (UBC NLP, now at Apple)
+* [Pushkar Shukla](https://pushkershukla.github.io) (Wharton/TTIC, now at CloudPhysician)
 * [Matthew Turk](https://home.ttic.edu/~mturk/) (TTIC)
 * [Kartik Hosanagar](http://www.hosanagar.com) (Wharton)
 * [Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/) (Microsoft Research)
 * [Boyang (Albert) Li](http://www.boyangli.org) (NTU Singapore)
 * [Renjie Liao](https://lrjconan.github.io) (UBC ECE)
 * [Mehar Bhatia](https://meharbhatia.github.io) (Mila)
-* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV)
+* [Gaurav Bhatt](https://gauravbh1010tt.github.io) (UBC CV, now at Harvard Medical School)
 
 ... and many more.
 
