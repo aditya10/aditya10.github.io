@@ -121,19 +121,19 @@ I have reviewed several papers for: NeurIPS 2025, CVPR 2025 (⭐️ Outstanding 
 
 **PhD Student, CV & NLP at UBC** \
 _Vancouver | May 2024 - Present_ \
-Working on multimodal vision-language models, video understanding, commonsense reasoning, bias and fairness.
+Building reasoning-inspired methods to evaluate and improve vision-language and generative AI models: fine-grained image and video understanding & evaluation, surprise localization and error detection in videos, and improving the diversity and quality of image and video generation.
 
-**Machine Learning Intern, Ideogram** \
-_Toronto (Remote) | November 2025 - May 2026_ \
-Worked with the ML team to develop methods for evaluating and improving the [Ideogram 4.0](https://ideogram.ai/models/4.0/) text-to-image model.
+**Machine Learning Research Intern, Ideogram** \
+_Toronto | November 2025 - March 2026_ \
+Core research team member for [Ideogram 4.0](https://ideogram.ai/models/4.0/), ranked #1 open-weight model on DesignArena, with native layout specification. Designed 3+ VLM-based metrics and agentic pipelines for fine-grained text-to-image evaluation, RL, and system prompt optimization.
 
-**Visiting Researcher, Toyota Technological Institute at Chicago** \
+**Visiting Student Researcher, Toyota Technological Institute at Chicago** \
 _Chicago | October 2024 - December 2024_ \
-Worked on bias mitigation in image generation models.
+Built InterMit, a counterfactual method for intersectional bias mitigation in image generation, achieving lower bias and higher diversity in fewer steps, with better image quality than prior work.
 
-**Research Intern, Borealis AI, RBC** \
-_Vancouver | September 2022 - March 2023_ \
-Worked on event time-series representation learning with transformers.
+**Machine Learning Research Intern, Borealis AI, RBC** \
+_Vancouver | September 2022 - May 2023_ \
+Developed PD-EST, a process-disentangling transformer for event sequences such as financial transactions. It jointly learns a process mask and the sequence model, improving next-event time/type prediction with interpretable process decomposition.
 
 **Graduate Research Assistant, Computer Vision Lab at UBC Computer Science** \
 _Vancouver | May 2022 - April 2024_ \
@@ -141,19 +141,19 @@ Visual Question Answering with external commonsense knowledge.
 
 **Undergraduate Research Assistant, Computer Vision Lab at UBC** \
 _Vancouver | May 2020 - August 2020_ \
-Structured attention for vision-text transformer models to improve image grounding.
+Worked on implementing and evaluating structured attention for vision-text transformer models to improve image grounding.
 
-**Undergraduate Research Assistant, LEAP Project at UBC Computer Science** \
+**Undergraduate Research Assistant, LEAP Project, UBC & BC Cancer Research** \
 _Vancouver | May 2020 - August 2020_ \
-Backend (RedCap Data) projects for LEAP, a differential privacy-focused federated ML platform.
+Designed a module that enabled 2x faster data retrieval from REDCap research databases for LEAP, a privacy-focused federated ML platform.
 
 **Machine Learning Engineer (Co-op), Hypercontext (prev. SoapBox)** \
 _Toronto | May 2019 - August 2019_ \
-Developed machine learning models for text classification, sentiment analysis and entity recognition using PyTorch, fast.ai and RASA NLU. This work is used in the [Meeting Insights](https://hypercontext.com/features/meeting-insights) feature of the product!
+Developed BERT models for text classification, sentiment analysis and entity recognition, used in the [Meeting Insights](https://hypercontext.com/features/meeting-insights) feature of the product. Orchestrated an end-to-end pipeline including data cleanup, a Flask REST API for serving, and retraining and deployment with Docker on AWS.
 
-**Junior Software Developer (Co-op), AppNeta** \
+**Junior Software Developer (Co-op), Broadcom (prev. AppNeta)** \
 _Vancouver | September 2018 – April 2019_ \
-Worked in a team of eight to scale up our application for cloud deployments. 
+Worked on scaling up our AppNeta's platform for network monitoring for cloud deployments. 
 
 <!-- ## 👨‍🎓 Education
 
