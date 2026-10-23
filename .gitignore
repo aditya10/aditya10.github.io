@@ -1,1 +1,6 @@
 .jekyll-cache
+.jekyll-preview
+.DS_Store
+_sources/photos/
+_tools/.card.html
+_plans/

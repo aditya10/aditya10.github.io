@@ -1,0 +1,13 @@
+{%- comment -%} A notebook's own page: every note in it, newest first. {%- endcomment -%}
+{%- assign nb = site.data.fieldnotes.notebooks | where: "id", page.notebook | first -%}
+{%- assign list = site.data.fn.by_notebook[page.notebook] -%}
+<p class="label">Field Notes · Notebook</p>
+<h1>{{ nb.name }}</h1>
+{%- if nb.blurb %}<p class="intro">{{ nb.blurb }}</p>{% else %}<p class="intro">{{ list.size }} note{% if list.size != 1 %}s{% endif %}</p>{% endif %}
+<div class="folder" style="--c: {{ nb.color }}; --terrain: url('/assets/fn/terrain/{{ nb.terrain }}.svg')">
+  {%- if list.size > 0 %}
+  <div class="entries">{% for n in list %}{% include fn/entry.html note=n %}{% endfor %}</div>
+  {%- else %}
+  <p class="label" style="color: rgba(243, 235, 218, 0.75); margin: 0">Nothing here yet.</p>
+  {%- endif %}
+</div>

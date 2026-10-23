@@ -1,0 +1,38 @@
+# Field Notes structure. Notebooks appear as Desk tabs in this order, and only once they hold a note.
+recent:
+  color: "#3b3229"
+  terrain: recent
+
+notebooks:
+  - id: current-work
+    name: Current Work
+    color: "#8a6a35"
+    terrain: current
+    blurb: Ideas I'm working on now, updated as they evolve
+  - id: published-research
+    name: Published Research
+    color: "#2f4030"
+    terrain: research
+  - id: thoughts
+    name: Thoughts
+    color: "#3f4f5e"
+    terrain: thinking
+  - id: photography
+    name: Photography
+    color: "#6a2a2e"
+    terrain: photo
+  - id: talks
+    name: Talks
+    color: "#4b3f55"
+    terrain: recent
+
+# status of a Current Work note
+statuses:
+  exploring: Exploring
+  building: Building
+  paused: Paused
+  published: Published
+
+# threads: notes that share a `thread:` id, ordered by date
+threads:
+  surprise-in-video: Surprise in video

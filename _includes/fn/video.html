@@ -1,0 +1,11 @@
+{%- comment -%}
+Video in a note. Plays muted and looping only while on screen (never with reduced motion); controls stay available.
+  {% include fn/video.html src="…mp4" poster="…jpg" label="…" caption="…" n="01" %}
+label: what the video shows, for screen readers (drafted, approved by Aditya). caption: Aditya's words.
+{%- endcomment -%}
+<figure class="figure">
+  <div class="frame"><video class="clip" src="{{ include.src }}"{% if include.poster %} poster="{{ include.poster }}"{% endif %} aria-label="{{ include.label | escape }}" muted loop playsinline controls preload="metadata"></video></div>
+  {%- if include.caption %}
+  <figcaption>{% if include.n %}<span class="label">Fig. {{ include.n }}</span>{% endif %}<span>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span></figcaption>
+  {%- endif %}
+</figure>

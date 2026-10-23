@@ -1,0 +1,62 @@
+---
+layout: fn-base
+title: The Desk
+permalink: /notes/
+fn_desk: true
+fn_terrain: true
+---
+{%- assign fn = site.data.fn -%}
+{%- assign cfg = site.data.fieldnotes -%}
+<main class="page desk">
+  <section class="masthead">
+    <p class="label">Vol. 01 · Vancouver, BC · Kept since 2026</p>
+    <h1>Field Notes</h1>
+    <p class="sub">of an AI Researcher</p>
+
+    <div class="about">
+      <img src="/assets/img/avatar.png" alt="Portrait of {{ site.author.name }}">
+      <p class="about-name">{{ site.author.name }}</p>
+      <p>I am a PhD student at the Computer Vision and NLP Labs at University of British Columbia. My research focus is on applying methods from human reasoning and cognition to develop vision-language models and evaluation tools.</p>
+    </div>
+  </section>
+
+  {%- if fn.recent.size > 0 %}
+  <section id="notebooks" class="notebooks" aria-label="Notebooks">
+    <div class="tabs" role="tablist" aria-label="Notebooks">
+      <button class="tab" role="tab" aria-selected="true" aria-controls="nb-recent" style="--c: {{ cfg.recent.color }}">Recent</button>
+      {%- for nb in cfg.notebooks %}{% assign list = fn.by_notebook[nb.id] %}{% if list.size > 0 %}
+      <button class="tab" role="tab" aria-selected="false" aria-controls="nb-{{ nb.id }}" style="--c: {{ nb.color }}">{{ nb.name }}<span class="n">{{ list.size }}</span></button>
+      {%- endif %}{% endfor %}
+    </div>
+
+    <div class="folder" id="nb-recent" role="tabpanel" style="--c: {{ cfg.recent.color }}; --terrain: url('/assets/fn/terrain/{{ cfg.recent.terrain }}.svg')">
+      <div class="tiles">
+        {%- for n in fn.recent limit: 6 %}
+        {% include fn/tile.html note=n feature=forloop.first %}
+        {%- endfor %}
+      </div>
+      <div class="folder-foot label"><span>Sorted by last updated</span><a href="/notes/a-z/">All {{ fn.recent.size }} notes →</a></div>
+    </div>
+
+    {%- for nb in cfg.notebooks %}{% assign list = fn.by_notebook[nb.id] %}{% if list.size > 0 %}
+    <div class="folder" id="nb-{{ nb.id }}" role="tabpanel" style="--c: {{ nb.color }}; --terrain: url('/assets/fn/terrain/{{ nb.terrain }}.svg')" hidden>
+      <div class="entries">
+        {%- for n in list limit: 6 %}
+        {% include fn/entry.html note=n %}
+        {%- endfor %}
+      </div>
+      <div class="folder-foot label"><span>{% if nb.blurb %}{{ nb.blurb }}{% else %}{{ list.size }} note{% if list.size != 1 %}s{% endif %}{% endif %}</span><a href="/notes/{{ nb.id }}/">Open notebook →</a></div>
+    </div>
+    {%- endif %}{% endfor %}
+  </section>
+  {%- endif %}
+
+  {%- if fn.recent.size > 1 %}
+  <section class="random-row">
+    <button class="random-btn" data-action="random">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 7h4l8 10h4M4 17h4l2.5-3M14 10l2-3h4M18 4l3 3-3 3M18 14l3 3-3 3"/></svg>
+      Turn to a random page
+    </button>
+  </section>
+  {%- endif %}
+</main>

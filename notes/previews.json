@@ -1,0 +1,10 @@
+---
+layout: null
+permalink: /notes/previews.json
+sitemap: false
+---
+{
+{%- for n in site.data.fn.recent %}
+  {{ n.slug | jsonify }}: {"title": {{ n.title | jsonify }}, "notebook": {{ n.fn_notebook.name | jsonify }}, "date": {{ n.date | date: "%b %Y" | jsonify }}, "url": {{ n.url | jsonify }}, "excerpt": {{ n.fn_excerpt | jsonify }}}{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+}

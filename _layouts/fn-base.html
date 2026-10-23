@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+{% include fn/head.html %}
+<body{% if page.fn_desk %} class="is-desk"{% endif %}>
+{% include fn/header.html %}
+{{ content }}
+{% include fn/footer.html %}
+{% include fn/search.html %}
+{%- if page.fn_terrain %}
+<div class="terrain" aria-hidden="true"></div>
+{%- endif %}
+{%- if page.math %}
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.querySelector('.prose'), { delimiters: [{ left: '\\[', right: '\\]', display: true }, { left: '\\(', right: '\\)', display: false }], throwOnError: false })"></script>
+{%- endif %}
+<script defer src="/assets/fn/fn.js"></script>
+</body>
+</html>

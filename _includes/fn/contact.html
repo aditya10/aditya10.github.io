@@ -1,0 +1,20 @@
+{%- comment -%}
+Contact sheet of a photo entry, from the note's `photos:` list. Each frame shows its own camera settings,
+and opens the full-screen gallery (or the full photo, without JavaScript).
+{%- endcomment -%}
+{%- if page.photos %}
+<div class="contact" data-gallery>
+  {%- for p in page.photos %}
+  {%- assign x = p.exif -%}
+  {%- capture settings -%}{% if x %}{{ x.aperture }} · {{ x.shutter }} · ISO {{ x.iso }} · {{ x.focal }}{% endif %}{%- endcapture -%}
+  {%- capture handnote -%}{% if x %}{{ p.camera | default: page.camera }}{% if p.camera or page.camera %}, {% endif %}{{ x.focal }} · {{ x.aperture }} · {{ x.shutter }} · ISO {{ x.iso }}{% endif %}{%- endcapture -%}
+  <figure>
+    <a href="{{ p.src }}" data-alt="{{ p.alt | escape }}" data-note="{{ handnote | strip | escape }}"{% if p.caption %} data-caption="{{ p.caption | escape }}"{% endif %}>
+      <img src="{{ p.src }}" alt="{{ p.alt | escape }}"{% if p.w %} width="{{ p.w }}" height="{{ p.h }}"{% endif %} loading="lazy">
+    </a>
+    <figcaption class="label"><span>{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>{% if settings != "" %}<span>{{ settings }}</span>{% endif %}</figcaption>
+    {%- if p.caption %}<p class="contact-caption">{{ p.caption }}</p>{% endif %}
+  </figure>
+  {%- endfor %}
+</div>
+{%- endif %}
