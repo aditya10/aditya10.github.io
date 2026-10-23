@@ -41,7 +41,7 @@ layout: fn-base
     <aside class="responding">
       <span class="label">Responding to</span>
       {%- if page.responding_quote %}
-      <div class="fallback"><blockquote>{{ page.responding_quote }}</blockquote>{% if page.responding_author %}<span class="label by">{{ page.responding_author }}</span>{% endif %}</div>
+      <div class="fallback"><blockquote>{{ page.responding_quote }}</blockquote>{% if page.responding_author %}<span class="label by">{{ page.responding_author }}</span>{% endif %}{% if page.responding_image %}<img src="{{ page.responding_image }}" alt="{{ page.responding_image_alt | escape }}" loading="lazy">{% endif %}</div>
       {%- endif %}
       <div class="embed" data-embed="{{ page.responding_to }}"></div>
       <a class="src label" href="{{ page.responding_to }}">View the original →</a>

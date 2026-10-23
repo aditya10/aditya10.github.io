@@ -55,6 +55,8 @@ bibtex: |                       # optional; adds a Cite button
 responding_to: https://x.com/...  # thoughts reactions: the post is embedded
 responding_quote: "..."           # fallback quote of the post (the post's own words)
 responding_author: "@handle"
+responding_image: /assets/notes/<slug>/<slug>-01.jpg  # the post's image, shown with the quote; also use as card_image
+responding_image_alt: "..."      # drafted, approved by Aditya
 photos:                           # photography
   - src: /assets/notes/<slug>/<slug>-01.jpg
     w: 1500                       # pixel size, so the page reserves space before it loads

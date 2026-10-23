@@ -566,6 +566,7 @@ details.tangent p { font-size: 1rem; color: var(--ink-2); }
 .responding > .label { display: block; margin-bottom: 0.6rem; }
 .responding blockquote { margin: 0; font-style: italic; color: var(--ink-2); }
 .responding .by { display: block; margin-top: 0.5rem; }
+.responding .fallback img { display: block; width: 100%; height: auto; margin-top: 0.85rem; border-radius: 4px; }
 .responding .embed:empty { display: none; }
 .responding.embedded .fallback { display: none; }
 .responding .src { display: inline-block; margin-top: 0.75rem; }
