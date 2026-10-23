@@ -1,0 +1,14 @@
+{%- comment -%} A note as a tile on Recent. The first tile is the feature; notes without a cover become text tiles. {%- endcomment -%}
+{%- assign n = include.note -%}
+{%- assign pic = n.fn_card | default: n.cover -%}
+<a class="entry tile{% if include.feature %} feature{% endif %}{% unless pic %} text{% endunless %}" href="{{ n.url }}">
+  {%- if pic %}
+  <div class="thumb{% if n.fn_card %} card{% endif %}"><img src="{{ pic }}" alt="" loading="lazy"{% if n.fn_card %} width="1200" height="630"{% endif %}></div>
+  {%- endif %}
+  <div class="meta">{% include fn/card-meta.html note=n with_notebook=true %}</div>
+  <h3>{{ n.title }}</h3>
+  {%- if include.feature or pic == nil %}
+  <p class="excerpt">{{ n.fn_excerpt }}</p>
+  {%- endif %}
+  <span class="label">{{ n.fn_words }} words · {% if n.updated %}updated {% endif %}{{ n.fn_updated | date: "%b %-d" }}</span>
+</a>

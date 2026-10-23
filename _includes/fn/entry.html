@@ -1,0 +1,12 @@
+{%- comment -%} A note as a row in a notebook folder. {%- endcomment -%}
+{%- assign n = include.note -%}
+{%- assign pic = n.fn_card | default: n.cover -%}
+<a class="entry{% unless pic %} no-thumb{% endunless %}" href="{{ n.url }}">
+  {%- if pic %}
+  <div class="thumb{% if n.fn_card %} card{% endif %}"><img src="{{ pic }}" alt="" loading="lazy"{% if n.fn_card %} width="1200" height="630"{% endif %}></div>
+  {%- endif %}
+  <div><div class="meta">{% include fn/card-meta.html note=n %}</div>
+    <h3>{{ n.title }}</h3>
+    <span class="label">{{ n.fn_words }} words · {{ n.fn_minutes }} min</span></div>
+  <div class="when label">{% if n.updated %}Updated{% else %}Noted{% endif %}<br>{{ n.fn_updated | date: "%b %-d, %Y" }}</div>
+</a>

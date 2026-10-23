@@ -1,0 +1,111 @@
+---
+layout: fn-base
+---
+{%- assign nb = page.fn_notebook -%}
+{%- assign th = page.fn_thread -%}
+{%- if page.hero %}
+<div class="hero-frame"><img src="{{ page.hero }}" alt="{{ page.hero_alt | escape }}"></div>
+{%- endif %}
+<main class="page"{% if page.hero %} style="padding-top: 2.5rem"{% endif %}>
+  <article class="note">
+    <header class="note-head">
+      <div class="crumbs">
+        <a class="label" href="/notes/{{ page.notebook }}/">{{ nb.name }}</a>
+        {%- if th %}
+        {%- assign step = th.prev | default: th.next -%}
+        <span class="label">·</span>
+        <a class="label" href="{{ step.url }}" data-preview="{{ step.slug }}">Thread: {{ th.title }} · {{ th.index }} of {{ th.count }} · {% if th.prev %}← {% endif %}{{ step.short_title | default: step.title }}{% unless th.prev %} →{% endunless %}</a>
+        {%- endif %}
+      </div>
+      <h1 class="note-title">{{ page.title }}</h1>
+      <div class="byline">
+        <img src="/assets/img/avatar.png" alt="Portrait of {{ site.author.name }}">
+        <p><a href="/">{{ site.author.name }}</a>, {{ site.fieldnotes.byline }}</p>
+      </div>
+      {%- capture cells -%}
+        <div><dt class="label">Notebook</dt><dd>{{ nb.name }}</dd></div>
+        {%- if page.notebook == "current-work" and page.status %}<div><dt class="label">Status</dt><dd><span class="status {{ page.status }}">{{ site.data.fieldnotes.statuses[page.status] }}</span></dd></div>{% endif %}
+        {%- if page.venue %}<div><dt class="label">Venue</dt><dd>{{ page.venue }}</dd></div>{% endif %}
+        {%- if page.region %}<div><dt class="label">Region</dt><dd>{{ page.region }}</dd></div>{% endif %}
+        <div><dt class="label">Noted</dt><dd>{{ page.date | date: "%Y-%m-%d" }}</dd></div>
+        {%- if page.updated %}<div><dt class="label">Revisited</dt><dd>{{ page.updated | date: "%Y-%m-%d" }}</dd></div>{% endif %}
+        {%- if page.photos %}<div><dt class="label">Frames</dt><dd>{{ page.photos.size }} photos</dd></div>{% endif %}
+        <div><dt class="label">Length</dt><dd>{{ page.fn_words }} words</dd></div>
+        <div><dt class="label">Read</dt><dd>{{ page.fn_minutes }} min</dd></div>
+      {%- endcapture -%}
+      {%- assign cols = cells | split: "<dt" | size | minus: 1 -%}
+      <dl class="spec" style="--cols: {{ cols }}">{{ cells }}</dl>
+    </header>
+
+    {%- if page.responding_to %}
+    <aside class="responding">
+      <span class="label">Responding to</span>
+      {%- if page.responding_quote %}
+      <div class="fallback"><blockquote>{{ page.responding_quote }}</blockquote>{% if page.responding_author %}<span class="label by">{{ page.responding_author }}</span>{% endif %}{% if page.responding_image %}<img src="{{ page.responding_image }}" alt="{{ page.responding_image_alt | escape }}" loading="lazy">{% endif %}</div>
+      {%- endif %}
+      <div class="embed" data-embed="{{ page.responding_to }}"></div>
+      <a class="src label" href="{{ page.responding_to }}">View the original →</a>
+    </aside>
+    {%- endif %}
+
+    <div class="prose lede">
+{{ content }}
+    </div>
+
+    {%- if page.photos %}
+    <div style="grid-column: 1 / -1">
+      <div class="section-head" style="margin-top: 0"><h2>Contact sheet</h2><span class="label">{{ page.photos.size }} frames</span></div>
+      {% include fn/contact.html %}
+    </div>
+    {%- endif %}
+
+    {%- comment -%} Referenced by: notes that link here, plus thread neighbours {%- endcomment -%}
+    {%- assign refs = page.fn_backlinks -%}
+    {%- capture seen -%}{% for r in refs %}{{ r.url }} {% endfor %}{%- endcapture -%}
+    {%- assign neighbours = "" | split: "" -%}
+    {%- if th.prev -%}{%- unless seen contains th.prev.url -%}{%- assign neighbours = neighbours | push: th.prev -%}{%- endunless -%}{%- endif -%}
+    {%- if th.next -%}{%- unless seen contains th.next.url -%}{%- assign neighbours = neighbours | push: th.next -%}{%- endunless -%}{%- endif -%}
+    {%- assign ref_count = refs.size | plus: neighbours.size -%}
+    {%- if ref_count > 0 or page.tags.size > 0 %}
+    <section class="after single">
+      <div>
+        {%- if ref_count > 0 %}
+        <div class="section-head" style="margin-top: 0"><h2>Referenced by</h2><span class="label">{{ ref_count }} note{% if ref_count != 1 %}s{% endif %}</span></div>
+        <ul class="reflist">
+          {%- for r in refs %}
+          <li><a href="{{ r.url }}" data-preview="{{ r.slug }}">{{ r.title }}</a><span class="label">{{ r.fn_notebook.name }} · links here · {{ r.date | date: "%b %Y" }}</span></li>
+          {%- endfor %}
+          {%- for r in neighbours %}
+          <li><a href="{{ r.url }}" data-preview="{{ r.slug }}">{{ r.title }}</a><span class="label">{{ r.fn_notebook.name }} · thread neighbour · {{ r.date | date: "%b %Y" }}</span></li>
+          {%- endfor %}
+        </ul>
+        {%- endif %}
+        {%- if page.tags.size > 0 %}
+        <div class="tags">{% for tag in page.tags %}<a href="/notes/a-z/#tag-{{ tag | slugify }}">{{ tag }}</a>{% endfor %}</div>
+        {%- endif %}
+      </div>
+    </section>
+    {%- endif %}
+
+    <section class="engage" aria-label="Ways to respond">
+      {%- if site.fieldnotes.buttondown %}
+      <div class="subscribe">
+        <span class="label" style="color: rgba(241, 233, 216, 0.7)">Newsletter</span>
+        <p>New notes by email. Unsubscribe in one click.</p>
+        <form action="https://buttondown.com/api/emails/embed-subscribe/{{ site.fieldnotes.buttondown }}" method="post">
+          <input type="email" name="email" placeholder="you@example.com" aria-label="Email address" autocomplete="email" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+      {%- endif %}
+      <div class="actions">
+        <a class="act" href="mailto:{{ site.fieldnotes.email }}?subject={{ 'Re: ' | append: page.title | url_encode | replace: '+', '%20' }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 6h18v12H3zM3 6l9 7 9-7"/></svg>Reply by email</a>
+        <button class="act" data-action="copy"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M9 15l6-6M10 6l1-1a4 4 0 0 1 6 6l-1 1M14 18l-1 1a4 4 0 0 1-6-6l1-1"/></svg><span>Copy link</span></button>
+        <a class="act" href="/notes/feed.xml"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 5a14 14 0 0 1 14 14M5 11a8 8 0 0 1 8 8"/><circle cx="6" cy="18" r="1.4" fill="currentColor"/></svg>RSS</a>
+        {%- if page.bibtex %}
+        <details class="cite"><summary class="act"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M7 4h10v16l-5-3-5 3z"/></svg>Cite (BibTeX)</summary><pre>{{ page.bibtex | escape }}</pre></details>
+        {%- endif %}
+      </div>
+    </section>
+  </article>
+</main>

@@ -1,0 +1,7 @@
+{%- comment -%} {% include fn/figure.html src="/assets/notes/slug/x.jpg" alt="…" caption="…" n="01" %} {%- endcomment -%}
+<figure class="figure">
+  <div class="frame"><img src="{{ include.src }}" alt="{{ include.alt | escape }}" loading="lazy"></div>
+  {%- if include.caption %}
+  <figcaption>{% if include.n %}<span class="label">Fig. {{ include.n }}</span>{% endif %}<span>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</span></figcaption>
+  {%- endif %}
+</figure>

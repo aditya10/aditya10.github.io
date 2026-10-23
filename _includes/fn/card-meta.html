@@ -1,0 +1,11 @@
+{%- comment -%} The small line above a card's title. include.with_notebook adds the notebook name (used on Recent). {%- endcomment -%}
+{%- assign n = include.note -%}
+{%- if n.notebook == "current-work" and n.status -%}<span class="status {{ n.status }}">{{ site.data.fieldnotes.statuses[n.status] }}</span>{%- endif -%}
+{%- capture bits -%}
+{%- if include.with_notebook -%}{{ n.fn_notebook.name }}|{%- endif -%}
+{%- if n.venue -%}{{ n.venue }}|{%- endif -%}
+{%- if n.responding_to -%}Responding to a post|{%- endif -%}
+{%- if n.photos -%}{{ n.photos.size }} photos|{%- endif -%}
+{%- endcapture -%}
+{%- assign parts = bits | split: "|" -%}
+{%- if parts.size > 0 -%}<span class="label">{{ parts | join: " · " }}</span>{%- endif -%}

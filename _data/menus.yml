@@ -6,9 +6,9 @@
   url: /projects
   external: false
 
-- title: Medium
-  url: https://medium.com/@adityachinchure
-  external: true
+- title: Field Notes
+  url: /notes/
+  external: false
 
 - title: Github
   url: https://github.com/aditya10

@@ -30,6 +30,9 @@ fb_appid:
 collections:
   posts:
     output: true
+  notes: # Field Notes (/notes/)
+    output: true
+    permalink: /notes/:name/
 
 # Markdown settings
 markdown: kramdown
@@ -44,6 +47,25 @@ defaults:
     values:
       layout: post
       comments: false
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: fn-note
+
+# Field Notes settings
+fieldnotes:
+  email: aditya.chinchure+web@gmail.com # "Reply by email" goes here
+  buttondown: # Buttondown username; the newsletter form only appears once this is set
+  byline: PhD student, CV & NLP at UBC.
+  # Desk description for search engines and link previews (Aditya's own words, from the plan)
+  description: A navigable record of what I'm learning, thinking about, and changing my mind about over time.
+
+# Extra RSS feed for Field Notes (the main feed.xml is unchanged)
+feed:
+  collections:
+    notes:
+      path: "/notes/feed.xml"
 
 # Jekyll Compose default front matter
 jekyll_compose:

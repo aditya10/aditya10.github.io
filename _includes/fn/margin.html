@@ -1,0 +1,7 @@
+{%- comment -%}
+Margin note. Place it on its own line directly before the paragraph it annotates.
+  {% include fn/margin.html text="…" %}                       plain margin note
+  {% include fn/margin.html text="…" label="↳ Picked up from" pickup=true hand="…" %}
+On phones it collapses into a ✱ at the end of that paragraph.
+{%- endcomment -%}
+<aside class="margin{% if include.pickup %} pickup{% endif %}"><span class="label">{{ include.label | default: "Margin note" }}</span>{{ include.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}{% if include.hand %}<span class="hand">{{ include.hand }}</span>{% endif %}</aside>
